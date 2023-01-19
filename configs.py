@@ -5,17 +5,17 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
+    API_ID = int(os.getenv("API_ID", "28558335"))
+    API_HASH = os.getenv("API_HASH", "94c458e8c0a069e892b81d494f06c162)
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5273361888:AAH00zRK-GsZMJuhRpq_ewFKjNx6WFOfeiI")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "All_languages_movies_bot)
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOI4Bu556_Fot7PpvHtGVZ_xJVpRepU_vNRDlmJRoyeKAdSKyqBha6OE17OiXohzPb0LVLOTnMlLd0_lule3nt_4BTwMANB5CQFgLGSDRwunSCbd5ICD1OyaxyfOc32foAj4f4Do552sI7SZ-nULdmky18wTLCQ6oeJpM0PAsUTp5PQCN3CRIzU8ULgFAGGhYXVqJLEGAIGY03V0SEG2hAQi7HO9CwUY25WZOs6SVlUxITkUzaZ128PCOC5xQyfBYx83y8HY21NtXBjyjOSRja8SpcYfItxeGcrUv2L8WFxPtFUcmjKPaG3FymduDeP28M7MWd6ewFYRAnTkX41hC_tzQwnQ=)
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001546987921")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
-#    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5143755979"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "@All_languages_movies_bot)
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "DEVILMODDER007)
+#    GROUP_USERNAME = os.getenv("https://t.me/HDHINDIMOVIESDISSCUTION")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
 I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
@@ -29,12 +29,12 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001249072794")
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001632269867")
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://postbot:postbot@cluster0.ouwne8q.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001796458234"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
-    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "cynitebackup")
+    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "DEVILMODDER007)
     FORCE_SUB = os.getenv("FORCE_SUB", "False")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
     MDISK_API = os.getenv("MDISK_API", "Qu7jX9V0Sn3q1JHdxjPp")
@@ -108,7 +108,7 @@ https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
 
 ᴀɢᴀʀ ʙᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴀ ʀᴇQᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ɴʜɪ ᴋᴀʀ ʀᴀʜᴇ ʜᴀɪɴ ᴛᴏ ᴜɴʜᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴍꜱɢ ᴋᴀʀᴇɴ.
 
-👉 @CyniteSupport
+👉 @Abhishektm
 
 """
 
