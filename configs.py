@@ -8,11 +8,11 @@ class Config(object):
     API_ID = int(os.getenv("API_ID", "28558335"))
     API_HASH = os.getenv("API_HASH", "94c458e8c0a069e892b81d494f06c162")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5978826016:AAHDDIlpkJH2x9mx5v4b9x9R-D5dUVIVQE4")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdisksearchdevilbot")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Mdisk_movies_special_bot)
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOI4Bu556_Fot7PpvHtGVZ_xJVpRepU_vNRDlmJRoyeKAdSKyqBha6OE17OiXohzPb0LVLOTnMlLd0_lule3nt_4BTwMANB5CQFgLGSDRwunSCbd5ICD1OyaxyfOc32foAj4f4Do552sI7SZ-nULdmky18wTLCQ6oeJpM0PAsUTp5PQCN3CRIzU8ULgFAGGhYXVqJLEGAIGY03V0SEG2hAQi7HO9CwUY25WZOs6SVlUxITkUzaZ128PCOC5xQyfBYx83y8HY21NtXBjyjOSRja8SpcYfItxeGcrUv2L8WFxPtFUcmjKPaG3FymduDeP28M7MWd6ewFYRAnTkX41hC_tzQwnQ=)
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001797714664")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "Mdisksearchdevilbot)
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "5143755979"))
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Devil_Moviez_Bot)
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5954366202"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Abhishektm)
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "DEVILMODDER007)
 #    GROUP_USERNAME = os.getenv("HDHINDIMOVIESDISSCUTION")
@@ -31,7 +31,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001249072794")
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Abhishek:<Abhi9716677>@cluster0.hba8dye.mongodb.net/?retryWrites=true&w=majority")
-    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001243635380"))
+    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-10015954366202)
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
     UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "DEVILMODDER007)
@@ -54,7 +54,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 ᴛᴇʀᴀ ʙᴏx - ᴀɢᴀʀ ᴀᴘᴘᴋᴏ ɴᴀʜɪ ᴘᴀᴛᴀ ᴋɪ ᴛᴇʀᴀʙᴏx sᴇ ᴍᴏᴠɪᴇs ᴋᴀɪsᴇ ᴅᴇᴋʜᴇ ᴛᴏ ɴɪᴄʜᴇ ᴅɪʏᴇ ɢᴀʏᴇ ᴛᴇʀᴀ ʙᴏx ʙᴜᴛᴛᴏɴ ᴘᴀʀ ᴄʟɪᴄᴋ ᴋᴀʀᴇ
 
-ʀᴇɢᴀʀᴅs - @CyniteBackup"""
+ʀᴇɢᴀʀᴅs - @DEVILMODDER007"""
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
